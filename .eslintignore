@@ -1,0 +1,5 @@
+/build/
+/dist/
+*.sh
+node_modules
+out
